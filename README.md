@@ -4,7 +4,7 @@
 
 An Alteryx workflow that automates the first pass of an accounts payable expense review. It checks every expense line against company policy, flags only the lines a person needs to look at, explains why each one was flagged, and catches duplicate submissions.
 
-![Alteryx workflow](images/workflow.png)
+![Alteryx workflow](alteryx/workflow.png)
 
 ## Business Problem
 
