@@ -1,0 +1,409 @@
+report_id,employee_id,department,expense_date,category,amount,receipt_attached,description
+ER-7032,E118,Transportation,2026-07-12,Mileage,56.8,Yes,Mileage expense
+ER-7142,E103,Aviation,2026-08-18,Mileage,80.81,Yes,Mileage expense
+ER-7406,E134,Aviation,2026-08-16,Airfare,183.84,Yes,Airfare expense
+ER-7214,E117,Energy,2026-07-26,Hotel,241.67,Yes,Hotel expense
+ER-7069,E117,Energy,2026-09-23,Airfare,638.28,Yes,Airfare expense
+ER-7169,E101,Energy,2026-07-07,Client Entertainment,196.46,Yes,Client Entertainment expense
+ER-7094,E106,Aviation,2026-07-04,Airfare,471.58,Yes,Airfare expense
+ER-7212,E116,Transportation,2026-08-23,Mileage,31.71,Yes,Mileage expense
+ER-7205,E107,Land Development,2026-08-19,Airfare,206.77,Yes,Airfare expense
+ER-7312,E136,Energy,2026-07-02,Client Entertainment,93.26,Yes,Client Entertainment expense
+ER-7261,E128,Water,2026-09-04,Airfare,585.61,Yes,Airfare expense
+ER-7070,E106,Aviation,2026-08-05,Meals,29.12,Yes,Meals expense
+ER-7193,E123,Land Development,2026-08-28,Client Entertainment,184.52,No,Client Entertainment expense
+ER-7020,E116,Transportation,2026-08-22,Client Entertainment,61.24,Yes,Client Entertainment expense
+ER-7381,E102,Energy,2026-07-19,Hotel,121.92,Yes,Hotel expense
+ER-7203,E116,Transportation,2026-09-06,Client Entertainment,198.25,Yes,Client Entertainment expense
+ER-7368,E131,Water,2026-08-14,Office Supplies,22.94,Yes,Office Supplies expense
+ER-7129,E117,Energy,2026-09-21,Airfare,499.82,Yes,Airfare expense
+ER-7343,E110,Land Development,2026-07-26,Airfare,217.26,Yes,Airfare expense
+ER-7131,E109,Land Development,2026-09-02,Meals,24.56,Yes,Meals expense
+ER-7357,E109,Land Development,2026-09-05,Airfare,212.17,Yes,Airfare expense
+ER-7084,E111,Aviation,2026-08-05,Meals,58.44,Yes,Meals expense
+ER-7330,E105,Energy,2026-08-17,Office Supplies,62.9,Yes,Office Supplies expense
+ER-7178,E131,Water,2026-09-30,Hotel,134.9,Yes,Hotel expense
+ER-7270,E130,Water,2026-08-06,Hotel,177.4,Yes,Hotel expense
+ER-7355,E107,Land Development,2026-07-16,Airfare,433.27,Yes,Airfare expense
+ER-7283,E126,Aviation,2026-08-23,Office Supplies,59.38,Yes,Office Supplies expense
+ER-7053,E111,Aviation,2026-07-13,Client Entertainment,91.97,Yes,Client Entertainment expense
+ER-7198,E109,Land Development,2026-08-25,Office Supplies,50.21,Yes,Office Supplies expense
+ER-7304,E133,Aviation,2026-08-12,Office Supplies,69.75,Yes,Office Supplies expense
+ER-7332,E122,Land Development,2026-08-29,Airfare,517.15,Yes,Airfare expense
+ER-7364,E104,Water,2026-07-07,Meals,25.33,Yes,Meals expense
+ER-7161,E111,Aviation,2026-07-12,Client Entertainment,171.55,Yes,Client Entertainment expense
+ER-7002,E110,Land Development,2026-09-30,Airfare,296.33,Yes,Airfare expense
+ER-7025,E110,Land Development,2026-09-29,Hotel,192.17,Yes,Hotel expense
+ER-7183,E139,Aviation,2026-09-30,Meals,57.75,No,Meals expense
+ER-7194,E112,Aviation,2026-08-04,Meals,20.81,Yes,Meals expense
+ER-7055,E112,Aviation,2026-07-18,Client Entertainment,164.36,Yes,Client Entertainment expense
+ER-7276,E117,Energy,2026-09-09,Airfare,317.83,Yes,Airfare expense
+ER-7024,E134,Aviation,2026-07-13,Mileage,60.81,Yes,Mileage expense
+ER-7278,E123,Land Development,2026-09-11,Airfare,485.62,Yes,Airfare expense
+ER-7342,E108,Transportation,2026-09-20,Office Supplies,177.53,Yes,Office Supplies expense
+ER-7007,E114,Water,2026-07-30,Mileage,38.02,Yes,Mileage expense
+ER-7285,E129,Water,2026-08-19,Meals,43.02,Yes,Meals expense
+ER-7119,E118,Transportation,2026-09-11,Office Supplies,24.73,Yes,Office Supplies expense
+ER-7253,E105,Energy,2026-07-12,Airfare,414.31,Yes,Airfare expense
+ER-7322,E136,Energy,2026-07-10,Airfare,387.12,Yes,Airfare expense
+ER-7028,E121,Land Development,2026-09-11,Client Entertainment,120.24,Yes,Client Entertainment expense
+ER-7146,E117,Energy,2026-09-08,Airfare,844.55,Yes,Airfare expense
+ER-7269,E101,Energy,2026-07-12,Office Supplies,52.66,No,Office Supplies expense
+ER-7262,E139,Aviation,2026-08-26,Meals,47.74,Yes,Meals expense
+ER-7147,E138,Land Development,2026-07-15,Meals,18.69,Yes,Meals expense
+ER-7159,E112,Aviation,2026-07-15,Mileage,74.69,Yes,Mileage expense
+ER-7281,E110,Land Development,2026-07-19,Mileage,27.34,Yes,Mileage expense
+ER-7373,E109,Land Development,2026-07-19,Mileage,83.17,Yes,Mileage expense
+ER-7289,E115,Aviation,2026-08-25,Mileage,172.69,Yes,Mileage expense
+ER-7340,E125,Land Development,2026-07-24,Office Supplies,76.54,Yes,Office Supplies expense
+ER-7170,E117,Energy,2026-08-26,Office Supplies,64.29,Yes,Office Supplies expense
+ER-7114,E123,Land Development,2026-08-06,Mileage,112.12,Yes,Mileage expense
+ER-7334,E120,Aviation,2026-08-28,Hotel,170.76,No,Hotel expense
+ER-7109,E102,Energy,2026-08-29,Airfare,357.01,Yes,Airfare expense
+ER-7320,E116,Transportation,2026-08-15,Hotel,134.34,Yes,Hotel expense
+ER-7291,E102,Energy,2026-08-02,Mileage,32.61,Yes,Mileage expense
+ER-7067,E128,Water,2026-07-12,Hotel,132.85,Yes,Hotel expense
+ER-7344,E123,Land Development,2026-07-26,Office Supplies,10.46,Yes,Office Supplies expense
+ER-7160,E119,Water,2026-07-18,Meals,21.26,No,Meals expense
+ER-7077,E107,Land Development,2026-09-29,Mileage,132.99,Yes,Mileage expense
+ER-7151,E106,Aviation,2026-07-13,Mileage,85.39,Yes,Mileage expense
+ER-7030,E129,Water,2026-08-13,Hotel,127.1,Yes,Hotel expense
+ER-7172,E119,Water,2026-07-28,Hotel,183.41,Yes,Hotel expense
+ER-7068,E107,Land Development,2026-09-26,Hotel,200.49,Yes,Hotel expense
+ER-7141,E110,Land Development,2026-07-20,Airfare,527.22,Yes,Airfare expense
+ER-7317,E113,Transportation,2026-08-29,Office Supplies,46.89,No,Office Supplies expense
+ER-7243,E107,Land Development,2026-08-24,Mileage,178.36,Yes,Mileage expense
+ER-7017,E101,Energy,2026-09-27,Airfare,489.15,Yes,Airfare expense
+ER-7353,E104,Water,2026-09-07,Airfare,544.51,Yes,Airfare expense
+ER-7189,E103,Aviation,2026-07-03,Client Entertainment,90.28,Yes,Client Entertainment expense
+ER-7354,E105,Energy,2026-09-11,Client Entertainment,68.63,Yes,Client Entertainment expense
+ER-7279,E138,Land Development,2026-08-31,Office Supplies,73.67,Yes,Office Supplies expense
+ER-7089,E100,Aviation,2026-08-07,Airfare,518.61,Yes,Airfare expense
+ER-7163,E113,Transportation,2026-08-07,Hotel,225.7,Yes,Hotel expense
+ER-7041,E101,Energy,2026-09-17,Client Entertainment,72.17,Yes,Client Entertainment expense
+ER-7264,E115,Aviation,2026-07-23,Client Entertainment,278.88,Yes,Client Entertainment expense
+ER-7236,E116,Transportation,2026-09-07,Meals,54.14,Yes,Meals expense
+ER-7200,E107,Land Development,2026-09-04,Meals,59.57,No,Meals expense
+ER-7390,E108,Transportation,2026-08-21,Office Supplies,34.55,Yes,Office Supplies expense
+ER-7065,E128,Water,2026-09-23,Hotel,174.24,Yes,Hotel expense
+ER-7352,E114,Water,2026-08-24,Hotel,393.34,Yes,Hotel expense
+ER-7265,E114,Water,2026-09-23,Meals,23.36,No,Meals expense
+ER-7182,E129,Water,2026-07-18,Hotel,148.04,Yes,Hotel expense
+ER-7100,E110,Land Development,2026-07-11,Mileage,70.48,Yes,Mileage expense
+ER-7217,E136,Energy,2026-07-13,Office Supplies,25.09,Yes,Office Supplies expense
+ER-7199,E134,Aviation,2026-07-26,Office Supplies,85.13,Yes,Office Supplies expense
+ER-7389,E132,Water,2026-09-15,Meals,21.44,Yes,Meals expense
+ER-7003,E100,Aviation,2026-07-19,Client Entertainment,148.69,No,Client Entertainment expense
+ER-7396,E134,Aviation,2026-08-03,Mileage,45.69,Yes,Mileage expense
+ER-7209,E119,Water,2026-07-27,Office Supplies,74.25,Yes,Office Supplies expense
+ER-7318,E127,Water,2026-09-01,Hotel,229.28,Yes,Hotel expense
+ER-7042,E106,Aviation,2026-07-12,Meals,43.2,Yes,Meals expense
+ER-7174,E103,Aviation,2026-07-20,Airfare,390.65,Yes,Airfare expense
+ER-7010,E133,Aviation,2026-09-26,Meals,58.55,Yes,Meals expense
+ER-7188,E126,Aviation,2026-09-24,Client Entertainment,405.44,Yes,Client Entertainment expense
+ER-7294,E119,Water,2026-08-30,Airfare,551.64,Yes,Airfare expense
+ER-7240,E109,Land Development,2026-07-04,Client Entertainment,170.35,Yes,Client Entertainment expense
+ER-7309,E115,Aviation,2026-09-08,Office Supplies,79.23,Yes,Office Supplies expense
+ER-7066,E137,Energy,2026-08-01,Client Entertainment,95.52,Yes,Client Entertainment expense
+ER-7333,E121,Land Development,2026-07-06,Mileage,42.89,Yes,Mileage expense
+ER-7280,E127,Water,2026-07-24,Hotel,219.13,Yes,Hotel expense
+ER-7225,E132,Water,2026-07-13,Airfare,434.7,Yes,Airfare expense
+ER-7204,E116,Transportation,2026-09-30,Meals,46.43,Yes,Meals expense
+ER-7012,E119,Water,2026-09-27,Client Entertainment,276.94,Yes,Client Entertainment expense
+ER-7013,E122,Land Development,2026-09-24,Office Supplies,54.19,Yes,Office Supplies expense
+ER-7157,E120,Aviation,2026-07-13,Office Supplies,38.29,Yes,Office Supplies expense
+ER-7370,E112,Aviation,2026-07-23,Airfare,405.28,Yes,Airfare expense
+ER-7315,E136,Energy,2026-09-05,Meals,21.58,Yes,Meals expense
+ER-7237,E126,Aviation,2026-07-27,Office Supplies,81.59,Yes,Office Supplies expense
+ER-7341,E105,Energy,2026-08-12,Office Supplies,86.51,Yes,Office Supplies expense
+ER-7029,E132,Water,2026-08-27,Meals,58.72,Yes,Meals expense
+ER-7347,E106,Aviation,2026-07-31,Airfare,208.7,Yes,Airfare expense
+ER-7268,E134,Aviation,2026-09-02,Mileage,94.0,Yes,Mileage expense
+ER-7222,E111,Aviation,2026-08-08,Meals,28.54,No,Meals expense
+ER-7339,E134,Aviation,2026-08-12,Meals,26.87,Yes,Meals expense
+ER-7307,E114,Water,2026-09-01,Airfare,499.72,Yes,Airfare expense
+ER-7108,E123,Land Development,2026-07-23,Office Supplies,45.62,Yes,Office Supplies expense
+ER-7235,E132,Water,2026-08-22,Office Supplies,10.47,Yes,Office Supplies expense
+ER-7175,E115,Aviation,2026-07-06,Meals,48.93,Yes,Meals expense
+ER-7277,E133,Aviation,2026-08-26,Client Entertainment,276.55,Yes,Client Entertainment expense
+ER-7284,E132,Water,2026-07-11,Office Supplies,47.13,Yes,Office Supplies expense
+ER-7035,E129,Water,2026-09-12,Office Supplies,80.22,Yes,Office Supplies expense
+ER-7306,E133,Aviation,2026-09-12,Meals,37.12,Yes,Meals expense
+ER-7099,E101,Energy,2026-08-23,Hotel,198.1,Yes,Hotel expense
+ER-7226,E135,Energy,2026-09-13,Client Entertainment,153.61,Yes,Client Entertainment expense
+ER-7112,E138,Land Development,2026-09-13,Office Supplies,66.77,Yes,Office Supplies expense
+ER-7150,E118,Transportation,2026-07-17,Mileage,78.91,Yes,Mileage expense
+ER-7128,E122,Land Development,2026-09-28,Hotel,162.55,Yes,Hotel expense
+ER-7165,E129,Water,2026-08-10,Client Entertainment,204.59,Yes,Client Entertainment expense
+ER-7369,E135,Energy,2026-09-16,Meals,26.47,Yes,Meals expense
+ER-7274,E126,Aviation,2026-08-14,Airfare,516.06,Yes,Airfare expense
+ER-7180,E137,Energy,2026-09-18,Hotel,168.75,Yes,Hotel expense
+ER-7186,E121,Land Development,2026-07-21,Meals,16.39,Yes,Meals expense
+ER-7098,E138,Land Development,2026-09-21,Airfare,515.06,Yes,Airfare expense
+ER-7118,E138,Land Development,2026-07-13,Airfare,187.08,Yes,Airfare expense
+ER-7345,E109,Land Development,2026-08-27,Meals,40.15,Yes,Meals expense
+ER-7395,E129,Water,2026-09-28,Meals,46.99,Yes,Meals expense
+ER-7176,E114,Water,2026-08-16,Office Supplies,28.41,Yes,Office Supplies expense
+ER-7216,E113,Transportation,2026-09-22,Meals,100.52,Yes,Meals expense
+ER-7060,E118,Transportation,2026-08-07,Mileage,106.52,Yes,Mileage expense
+ER-7356,E139,Aviation,2026-09-12,Mileage,102.36,Yes,Mileage expense
+ER-7303,E132,Water,2026-09-16,Office Supplies,61.8,Yes,Office Supplies expense
+ER-7011,E108,Transportation,2026-09-19,Airfare,491.24,Yes,Airfare expense
+ER-7314,E120,Aviation,2026-07-14,Airfare,371.36,Yes,Airfare expense
+ER-7173,E137,Energy,2026-09-25,Airfare,370.77,Yes,Airfare expense
+ER-7192,E100,Aviation,2026-07-22,Meals,26.71,Yes,Meals expense
+ER-7241,E130,Water,2026-08-23,Hotel,244.36,Yes,Hotel expense
+ER-7126,E110,Land Development,2026-07-24,Meals,47.59,Yes,Meals expense
+ER-7127,E127,Water,2026-09-08,Client Entertainment,140.8,No,Client Entertainment expense
+ER-7057,E129,Water,2026-09-01,Client Entertainment,148.98,No,Client Entertainment expense
+ER-7376,E125,Land Development,2026-09-04,Client Entertainment,76.48,Yes,Client Entertainment expense
+ER-7374,E129,Water,2026-09-12,Airfare,415.95,Yes,Airfare expense
+ER-7321,E107,Land Development,2026-09-07,Mileage,122.36,Yes,Mileage expense
+ER-7074,E137,Energy,2026-09-17,Hotel,213.78,Yes,Hotel expense
+ER-7106,E132,Water,2026-09-14,Office Supplies,46.65,Yes,Office Supplies expense
+ER-7091,E122,Land Development,2026-08-28,Meals,39.78,No,Meals expense
+ER-7327,E132,Water,2026-08-02,Airfare,346.91,Yes,Airfare expense
+ER-7331,E102,Energy,2026-09-02,Hotel,183.24,Yes,Hotel expense
+ER-7179,E127,Water,2026-08-28,Airfare,196.02,Yes,Airfare expense
+ER-7023,E129,Water,2026-08-03,Client Entertainment,103.06,Yes,Client Entertainment expense
+ER-7190,E110,Land Development,2026-08-09,Meals,55.63,Yes,Meals expense
+ER-7256,E114,Water,2026-09-15,Client Entertainment,155.72,Yes,Client Entertainment expense
+ER-7001,E124,Energy,2026-08-12,Client Entertainment,280.12,Yes,Client Entertainment expense
+ER-7181,E124,Energy,2026-09-04,Hotel,131.2,Yes,Hotel expense
+ER-7039,E100,Aviation,2026-08-19,Client Entertainment,254.78,Yes,Client Entertainment expense
+ER-7111,E125,Land Development,2026-07-27,Airfare,709.87,Yes,Airfare expense
+ER-7400,E122,Land Development,2026-08-25,Hotel,236.54,Yes,Hotel expense
+ER-7399,E135,Energy,2026-08-12,Meals,52.56,Yes,Meals expense
+ER-7054,E129,Water,2026-09-16,Client Entertainment,124.62,Yes,Client Entertainment expense
+ER-7004,E126,Aviation,2026-09-27,Meals,27.04,Yes,Meals expense
+ER-7104,E105,Energy,2026-07-21,Meals,54.0,Yes,Meals expense
+ER-7266,E100,Aviation,2026-09-03,Mileage,100.62,No,Mileage expense
+ER-7251,E111,Aviation,2026-08-16,Mileage,89.83,Yes,Mileage expense
+ER-7105,E112,Aviation,2026-08-08,Client Entertainment,258.73,Yes,Client Entertainment expense
+ER-7085,E123,Land Development,2026-09-12,Mileage,104.34,Yes,Mileage expense
+ER-7372,E105,Energy,2026-09-25,Hotel,157.08,Yes,Hotel expense
+ER-7171,E139,Aviation,2026-08-07,Airfare,548.15,Yes,Airfare expense
+ER-7221,E115,Aviation,2026-08-31,Mileage,31.32,Yes,Mileage expense
+ER-7152,E116,Transportation,2026-09-03,Hotel,172.12,Yes,Hotel expense
+ER-7166,E116,Transportation,2026-09-17,Office Supplies,48.04,Yes,Office Supplies expense
+ER-7006,E129,Water,2026-09-02,Mileage,266.89,Yes,Mileage expense
+ER-7300,E104,Water,2026-08-09,Hotel,212.35,Yes,Hotel expense
+ER-7337,E134,Aviation,2026-07-03,Client Entertainment,273.04,Yes,Client Entertainment expense
+ER-7156,E131,Water,2026-09-28,Hotel,188.18,Yes,Hotel expense
+ER-7230,E125,Land Development,2026-09-25,Airfare,398.5,Yes,Airfare expense
+ER-7082,E113,Transportation,2026-09-11,Hotel,225.91,Yes,Hotel expense
+ER-7349,E113,Transportation,2026-08-15,Office Supplies,25.81,Yes,Office Supplies expense
+ER-7071,E112,Aviation,2026-07-06,Office Supplies,89.63,Yes,Office Supplies expense
+ER-7305,E127,Water,2026-08-31,Mileage,82.08,Yes,Mileage expense
+ER-7380,E107,Land Development,2026-07-27,Meals,72.63,Yes,Meals expense
+ER-7087,E127,Water,2026-08-31,Airfare,278.25,Yes,Airfare expense
+ER-7215,E135,Energy,2026-07-19,Mileage,82.34,Yes,Mileage expense
+ER-7064,E104,Water,2026-07-02,Airfare,437.57,Yes,Airfare expense
+ER-7014,E138,Land Development,2026-07-06,Mileage,88.36,Yes,Mileage expense
+ER-7223,E138,Land Development,2026-07-20,Hotel,132.09,Yes,Hotel expense
+ER-7228,E120,Aviation,2026-09-13,Office Supplies,43.9,Yes,Office Supplies expense
+ER-7018,E117,Energy,2026-07-06,Client Entertainment,142.61,Yes,Client Entertainment expense
+ER-7313,E138,Land Development,2026-08-09,Office Supplies,25.78,Yes,Office Supplies expense
+ER-7244,E117,Energy,2026-07-27,Airfare,564.46,Yes,Airfare expense
+ER-7329,E100,Aviation,2026-08-27,Client Entertainment,297.75,No,Client Entertainment expense
+ER-7153,E121,Land Development,2026-07-10,Meals,51.8,Yes,Meals expense
+ER-7393,E111,Aviation,2026-08-01,Meals,41.04,Yes,Meals expense
+ER-7103,E137,Energy,2026-07-25,Airfare,595.67,Yes,Airfare expense
+ER-7338,E109,Land Development,2026-08-27,Client Entertainment,251.61,Yes,Client Entertainment expense
+ER-7154,E115,Aviation,2026-08-25,Hotel,298.08,Yes,Hotel expense
+ER-7301,E126,Aviation,2026-08-07,Hotel,224.31,Yes,Hotel expense
+ER-7120,E132,Water,2026-08-31,Airfare,563.92,Yes,Airfare expense
+ER-7367,E109,Land Development,2026-08-29,Meals,21.9,Yes,Meals expense
+ER-7267,E129,Water,2026-08-15,Mileage,26.03,Yes,Mileage expense
+ER-7144,E117,Energy,2026-07-02,Client Entertainment,268.1,Yes,Client Entertainment expense
+ER-7227,E120,Aviation,2026-09-09,Hotel,222.38,Yes,Hotel expense
+ER-7044,E119,Water,2026-08-05,Hotel,200.31,Yes,Hotel expense
+ER-7113,E107,Land Development,2026-09-09,Office Supplies,49.05,Yes,Office Supplies expense
+ER-7134,E120,Aviation,2026-09-07,Meals,27.34,Yes,Meals expense
+ER-7220,E116,Transportation,2026-08-12,Hotel,245.22,Yes,Hotel expense
+ER-7140,E120,Aviation,2026-08-25,Meals,56.03,Yes,Meals expense
+ER-7093,E135,Energy,2026-09-08,Client Entertainment,229.76,Yes,Client Entertainment expense
+ER-7101,E107,Land Development,2026-08-09,Hotel,259.87,Yes,Hotel expense
+ER-7210,E125,Land Development,2026-07-20,Airfare,463.22,No,Airfare expense
+ER-7133,E105,Energy,2026-08-17,Client Entertainment,68.45,Yes,Client Entertainment expense
+ER-7005,E135,Energy,2026-08-28,Office Supplies,69.34,Yes,Office Supplies expense
+ER-7259,E136,Energy,2026-07-24,Hotel,120.09,Yes,Hotel expense
+ER-7130,E114,Water,2026-09-25,Meals,50.41,Yes,Meals expense
+ER-7079,E119,Water,2026-08-25,Airfare,211.21,Yes,Airfare expense
+ER-7387,E113,Transportation,2026-09-30,Hotel,150.57,Yes,Hotel expense
+ER-7155,E133,Aviation,2026-07-18,Office Supplies,47.56,Yes,Office Supplies expense
+ER-7115,E130,Water,2026-08-10,Client Entertainment,177.42,Yes,Client Entertainment expense
+ER-7275,E118,Transportation,2026-08-15,Meals,27.65,Yes,Meals expense
+ER-7286,E100,Aviation,2026-08-03,Meals,49.73,Yes,Meals expense
+ER-7117,E105,Energy,2026-09-27,Client Entertainment,66.19,Yes,Client Entertainment expense
+ER-7206,E113,Transportation,2026-09-05,Meals,26.37,Yes,Meals expense
+ER-7391,E115,Aviation,2026-07-17,Airfare,605.07,Yes,Airfare expense
+ER-7358,E130,Water,2026-08-30,Hotel,180.78,Yes,Hotel expense
+ER-7184,E135,Energy,2026-07-27,Mileage,172.01,Yes,Mileage expense
+ER-7258,E105,Energy,2026-09-15,Office Supplies,33.45,Yes,Office Supplies expense
+ER-7386,E128,Water,2026-07-10,Hotel,517.16,Yes,Hotel expense
+ER-7040,E109,Land Development,2026-08-04,Hotel,200.42,Yes,Hotel expense
+ER-7385,E137,Energy,2026-09-18,Hotel,213.07,Yes,Hotel expense
+ER-7090,E138,Land Development,2026-08-07,Meals,90.1,Yes,Meals expense
+ER-7350,E119,Water,2026-08-05,Airfare,515.27,Yes,Airfare expense
+ER-7231,E111,Aviation,2026-09-02,Office Supplies,42.75,Yes,Office Supplies expense
+ER-7232,E104,Water,2026-08-08,Meals,59.75,No,Meals expense
+ER-7388,E108,Transportation,2026-07-30,Meals,28.28,Yes,Meals expense
+ER-7242,E118,Transportation,2026-09-20,Meals,47.2,Yes,Meals expense
+ER-7164,E121,Land Development,2026-07-06,Client Entertainment,134.53,Yes,Client Entertainment expense
+ER-7362,E110,Land Development,2026-07-15,Client Entertainment,104.74,Yes,Client Entertainment expense
+ER-7009,E124,Energy,2026-07-14,Client Entertainment,165.68,Yes,Client Entertainment expense
+ER-7037,E100,Aviation,2026-07-18,Client Entertainment,196.09,No,Client Entertainment expense
+ER-7405,E108,Transportation,2026-09-20,Office Supplies,177.53,Yes,Office Supplies expense
+ER-7045,E125,Land Development,2026-08-30,Airfare,477.02,Yes,Airfare expense
+ER-7282,E113,Transportation,2026-07-02,Mileage,58.57,Yes,Mileage expense
+ER-7335,E132,Water,2026-09-13,Mileage,84.08,Yes,Mileage expense
+ER-7404,E119,Water,2026-07-28,Hotel,183.41,Yes,Hotel expense
+ER-7036,E111,Aviation,2026-08-09,Meals,16.36,Yes,Meals expense
+ER-7048,E125,Land Development,2026-07-15,Client Entertainment,151.04,Yes,Client Entertainment expense
+ER-7145,E100,Aviation,2026-09-08,Mileage,28.79,Yes,Mileage expense
+ER-7122,E114,Water,2026-07-10,Office Supplies,27.11,Yes,Office Supplies expense
+ER-7290,E133,Aviation,2026-07-25,Hotel,174.01,Yes,Hotel expense
+ER-7298,E126,Aviation,2026-07-04,Airfare,473.07,Yes,Airfare expense
+ER-7297,E139,Aviation,2026-09-29,Office Supplies,69.24,Yes,Office Supplies expense
+ER-7197,E134,Aviation,2026-08-16,Airfare,183.84,Yes,Airfare expense
+ER-7257,E110,Land Development,2026-09-24,Meals,18.82,Yes,Meals expense
+ER-7139,E129,Water,2026-09-18,Meals,35.16,Yes,Meals expense
+ER-7375,E126,Aviation,2026-08-09,Office Supplies,46.13,Yes,Office Supplies expense
+ER-7336,E124,Energy,2026-09-24,Mileage,46.59,Yes,Mileage expense
+ER-7107,E114,Water,2026-07-30,Mileage,275.15,Yes,Mileage expense
+ER-7008,E123,Land Development,2026-08-10,Client Entertainment,201.6,Yes,Client Entertainment expense
+ER-7328,E111,Aviation,2026-09-20,Airfare,269.63,Yes,Airfare expense
+ER-7383,E114,Water,2026-07-31,Client Entertainment,263.33,Yes,Client Entertainment expense
+ER-7371,E131,Water,2026-08-14,Airfare,393.66,Yes,Airfare expense
+ER-7191,E113,Transportation,2026-09-12,Mileage,101.17,Yes,Mileage expense
+ER-7234,E126,Aviation,2026-07-17,Hotel,204.31,Yes,Hotel expense
+ER-7021,E130,Water,2026-08-08,Client Entertainment,255.66,No,Client Entertainment expense
+ER-7379,E104,Water,2026-09-25,Mileage,128.48,Yes,Mileage expense
+ER-7272,E130,Water,2026-08-10,Client Entertainment,64.08,Yes,Client Entertainment expense
+ER-7398,E122,Land Development,2026-08-25,Hotel,236.54,Yes,Hotel expense
+ER-7310,E123,Land Development,2026-08-07,Airfare,346.08,Yes,Airfare expense
+ER-7078,E133,Aviation,2026-08-10,Hotel,389.74,Yes,Hotel expense
+ER-7046,E114,Water,2026-07-29,Hotel,221.09,Yes,Hotel expense
+ER-7401,E126,Aviation,2026-09-26,Hotel,205.1,Yes,Hotel expense
+ER-7377,E108,Transportation,2026-07-26,Meals,57.16,Yes,Meals expense
+ER-7366,E132,Water,2026-09-23,Hotel,258.99,No,Hotel expense
+ER-7219,E126,Aviation,2026-08-12,Client Entertainment,277.06,Yes,Client Entertainment expense
+ER-7361,E108,Transportation,2026-07-28,Mileage,241.77,Yes,Mileage expense
+ER-7249,E135,Energy,2026-09-13,Office Supplies,48.82,Yes,Office Supplies expense
+ER-7135,E130,Water,2026-08-27,Mileage,74.57,Yes,Mileage expense
+ER-7201,E123,Land Development,2026-08-16,Meals,34.59,Yes,Meals expense
+ER-7365,E120,Aviation,2026-08-11,Office Supplies,77.26,No,Office Supplies expense
+ER-7110,E111,Aviation,2026-09-20,Airfare,426.6,Yes,Airfare expense
+ER-7397,E103,Aviation,2026-09-10,Meals,15.76,Yes,Meals expense
+ER-7063,E128,Water,2026-08-08,Airfare,195.67,Yes,Airfare expense
+ER-7292,E110,Land Development,2026-07-23,Client Entertainment,89.39,Yes,Client Entertainment expense
+ER-7092,E112,Aviation,2026-07-27,Hotel,147.38,Yes,Hotel expense
+ER-7245,E121,Land Development,2026-08-30,Meals,28.04,Yes,Meals expense
+ER-7062,E134,Aviation,2026-07-30,Office Supplies,70.62,Yes,Office Supplies expense
+ER-7000,E118,Transportation,2026-09-17,Hotel,330.56,No,Hotel expense
+ER-7027,E117,Energy,2026-09-23,Office Supplies,15.5,Yes,Office Supplies expense
+ER-7378,E112,Aviation,2026-09-07,Meals,55.09,Yes,Meals expense
+ER-7250,E102,Energy,2026-09-29,Meals,52.37,Yes,Meals expense
+ER-7177,E109,Land Development,2026-09-08,Mileage,64.9,Yes,Mileage expense
+ER-7187,E137,Energy,2026-09-04,Mileage,21.13,Yes,Mileage expense
+ER-7148,E122,Land Development,2026-09-10,Mileage,97.65,Yes,Mileage expense
+ER-7239,E105,Energy,2026-08-20,Office Supplies,168.84,Yes,Office Supplies expense
+ER-7382,E107,Land Development,2026-07-16,Client Entertainment,225.03,Yes,Client Entertainment expense
+ER-7346,E129,Water,2026-09-17,Office Supplies,51.03,Yes,Office Supplies expense
+ER-7158,E132,Water,2026-07-25,Meals,144.85,Yes,Meals expense
+ER-7143,E103,Aviation,2026-08-13,Office Supplies,74.37,No,Office Supplies expense
+ER-7273,E130,Water,2026-08-18,Airfare,468.78,Yes,Airfare expense
+ER-7059,E110,Land Development,2026-09-21,Mileage,35.09,Yes,Mileage expense
+ER-7202,E109,Land Development,2026-07-30,Meals,21.83,Yes,Meals expense
+ER-7208,E120,Aviation,2026-09-27,Client Entertainment,290.42,Yes,Client Entertainment expense
+ER-7348,E104,Water,2026-07-25,Hotel,173.8,Yes,Hotel expense
+ER-7149,E112,Aviation,2026-08-24,Office Supplies,74.22,Yes,Office Supplies expense
+ER-7123,E138,Land Development,2026-07-29,Hotel,124.54,Yes,Hotel expense
+ER-7311,E120,Aviation,2026-07-29,Meals,59.48,Yes,Meals expense
+ER-7016,E119,Water,2026-07-06,Hotel,399.05,Yes,Hotel expense
+ER-7224,E104,Water,2026-09-13,Hotel,135.21,Yes,Hotel expense
+ER-7384,E104,Water,2026-09-06,Airfare,603.28,Yes,Airfare expense
+ER-7229,E116,Transportation,2026-08-28,Office Supplies,67.51,Yes,Office Supplies expense
+ER-7308,E105,Energy,2026-07-02,Mileage,31.1,Yes,Mileage expense
+ER-7403,E134,Aviation,2026-08-12,Meals,26.87,Yes,Meals expense
+ER-7097,E130,Water,2026-09-15,Meals,32.14,Yes,Meals expense
+ER-7125,E126,Aviation,2026-09-26,Hotel,205.1,Yes,Hotel expense
+ER-7061,E139,Aviation,2026-09-10,Meals,32.78,Yes,Meals expense
+ER-7081,E133,Aviation,2026-09-17,Hotel,215.41,Yes,Hotel expense
+ER-7407,E102,Energy,2026-08-02,Mileage,32.61,Yes,Mileage expense
+ER-7324,E121,Land Development,2026-09-17,Mileage,107.0,Yes,Mileage expense
+ER-7056,E112,Aviation,2026-08-30,Office Supplies,17.74,Yes,Office Supplies expense
+ER-7019,E123,Land Development,2026-08-17,Client Entertainment,243.66,Yes,Client Entertainment expense
+ER-7086,E108,Transportation,2026-07-01,Airfare,375.09,Yes,Airfare expense
+ER-7326,E134,Aviation,2026-07-19,Meals,28.39,Yes,Meals expense
+ER-7246,E116,Transportation,2026-08-20,Client Entertainment,203.55,Yes,Client Entertainment expense
+ER-7137,E129,Water,2026-09-03,Hotel,174.25,No,Hotel expense
+ER-7316,E127,Water,2026-09-20,Meals,57.47,Yes,Meals expense
+ER-7034,E100,Aviation,2026-09-21,Office Supplies,75.22,Yes,Office Supplies expense
+ER-7296,E137,Energy,2026-07-01,Hotel,234.73,Yes,Hotel expense
+ER-7138,E122,Land Development,2026-09-22,Office Supplies,26.38,Yes,Office Supplies expense
+ER-7254,E102,Energy,2026-08-20,Mileage,129.84,Yes,Mileage expense
+ER-7076,E137,Energy,2026-08-05,Office Supplies,79.87,Yes,Office Supplies expense
+ER-7026,E130,Water,2026-09-15,Office Supplies,56.45,Yes,Office Supplies expense
+ER-7288,E100,Aviation,2026-09-27,Mileage,101.39,Yes,Mileage expense
+ER-7043,E131,Water,2026-09-12,Airfare,240.69,Yes,Airfare expense
+ER-7096,E136,Energy,2026-07-07,Airfare,399.31,Yes,Airfare expense
+ER-7083,E106,Aviation,2026-07-31,Client Entertainment,284.79,Yes,Client Entertainment expense
+ER-7252,E131,Water,2026-07-15,Client Entertainment,132.71,Yes,Client Entertainment expense
+ER-7185,E113,Transportation,2026-08-20,Office Supplies,16.07,Yes,Office Supplies expense
+ER-7073,E109,Land Development,2026-07-12,Client Entertainment,102.31,Yes,Client Entertainment expense
+ER-7248,E117,Energy,2026-09-20,Airfare,468.35,Yes,Airfare expense
+ER-7247,E102,Energy,2026-08-23,Mileage,90.46,Yes,Mileage expense
+ER-7233,E124,Energy,2026-07-05,Hotel,196.85,Yes,Hotel expense
+ER-7271,E121,Land Development,2026-09-06,Airfare,343.26,No,Airfare expense
+ER-7136,E128,Water,2026-07-19,Office Supplies,60.85,Yes,Office Supplies expense
+ER-7295,E105,Energy,2026-07-27,Hotel,235.04,Yes,Hotel expense
+ER-7049,E110,Land Development,2026-07-10,Mileage,65.67,Yes,Mileage expense
+ER-7207,E100,Aviation,2026-08-16,Client Entertainment,131.0,Yes,Client Entertainment expense
+ER-7394,E108,Transportation,2026-07-06,Office Supplies,19.13,Yes,Office Supplies expense
+ER-7392,E119,Water,2026-07-04,Office Supplies,49.22,Yes,Office Supplies expense
+ER-7132,E130,Water,2026-08-08,Hotel,218.34,Yes,Hotel expense
+ER-7050,E127,Water,2026-07-29,Office Supplies,40.15,Yes,Office Supplies expense
+ER-7238,E114,Water,2026-07-20,Office Supplies,45.93,Yes,Office Supplies expense
+ER-7052,E113,Transportation,2026-09-19,Office Supplies,56.32,No,Office Supplies expense
+ER-7080,E134,Aviation,2026-09-11,Client Entertainment,242.63,Yes,Client Entertainment expense
+ER-7031,E108,Transportation,2026-07-11,Mileage,92.45,Yes,Mileage expense
+ER-7121,E106,Aviation,2026-08-31,Mileage,25.93,Yes,Mileage expense
+ER-7211,E137,Energy,2026-08-19,Office Supplies,79.12,Yes,Office Supplies expense
+ER-7351,E130,Water,2026-08-31,Hotel,220.96,Yes,Hotel expense
+ER-7302,E105,Energy,2026-07-16,Airfare,290.23,Yes,Airfare expense
+ER-7196,E112,Aviation,2026-09-23,Client Entertainment,118.59,Yes,Client Entertainment expense
+ER-7088,E105,Energy,2026-09-12,Meals,47.75,Yes,Meals expense
+ER-7325,E104,Water,2026-07-26,Office Supplies,70.45,Yes,Office Supplies expense
+ER-7323,E111,Aviation,2026-07-07,Mileage,53.19,Yes,Mileage expense
+ER-7255,E132,Water,2026-08-15,Office Supplies,89.16,Yes,Office Supplies expense
+ER-7058,E137,Energy,2026-07-26,Office Supplies,25.27,Yes,Office Supplies expense
+ER-7033,E138,Land Development,2026-08-28,Airfare,266.43,No,Airfare expense
+ER-7038,E104,Water,2026-07-09,Meals,45.5,Yes,Meals expense
+ER-7359,E120,Aviation,2026-07-25,Hotel,170.9,Yes,Hotel expense
+ER-7051,E114,Water,2026-07-23,Office Supplies,36.39,Yes,Office Supplies expense
+ER-7363,E116,Transportation,2026-08-30,Client Entertainment,247.68,Yes,Client Entertainment expense
+ER-7260,E113,Transportation,2026-08-06,Office Supplies,14.77,Yes,Office Supplies expense
+ER-7102,E137,Energy,2026-09-10,Airfare,453.27,Yes,Airfare expense
+ER-7195,E127,Water,2026-08-11,Hotel,144.79,No,Hotel expense
+ER-7167,E105,Energy,2026-07-12,Hotel,246.81,Yes,Hotel expense
+ER-7293,E114,Water,2026-07-30,Hotel,158.54,Yes,Hotel expense
+ER-7116,E109,Land Development,2026-09-14,Mileage,36.29,Yes,Mileage expense
+ER-7124,E137,Energy,2026-09-09,Client Entertainment,206.86,Yes,Client Entertainment expense
+ER-7218,E104,Water,2026-09-27,Airfare,276.64,Yes,Airfare expense
+ER-7287,E110,Land Development,2026-07-30,Airfare,409.49,Yes,Airfare expense
+ER-7319,E119,Water,2026-09-01,Hotel,592.92,Yes,Hotel expense
+ER-7047,E134,Aviation,2026-07-03,Airfare,485.88,Yes,Airfare expense
+ER-7213,E126,Aviation,2026-09-20,Meals,51.3,Yes,Meals expense
+ER-7402,E111,Aviation,2026-09-20,Airfare,269.63,Yes,Airfare expense
+ER-7095,E132,Water,2026-08-07,Airfare,442.41,Yes,Airfare expense
+ER-7162,E129,Water,2026-07-24,Hotel,124.75,Yes,Hotel expense
+ER-7263,E105,Energy,2026-08-21,Hotel,193.04,Yes,Hotel expense
+ER-7360,E123,Land Development,2026-07-28,Meals,35.35,No,Meals expense
+ER-7075,E110,Land Development,2026-08-17,Office Supplies,60.28,Yes,Office Supplies expense
+ER-7299,E137,Energy,2026-07-03,Office Supplies,65.74,Yes,Office Supplies expense
+ER-7022,E119,Water,2026-07-09,Office Supplies,51.04,Yes,Office Supplies expense
+ER-7072,E126,Aviation,2026-09-07,Hotel,403.73,Yes,Hotel expense
+ER-7015,E115,Aviation,2026-07-04,Office Supplies,80.1,Yes,Office Supplies expense
+ER-7168,E132,Water,2026-09-23,Hotel,251.31,Yes,Hotel expense
